@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ladybug</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="admob_banner_add">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
